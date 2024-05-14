@@ -28,7 +28,8 @@
 			"extensions": [
 				"ms-dotnettools.csdevkit",
 				"ms-dotnettools.csharp",
-				"jmrog.vscode-nuget-package-manager"
+				"jmrog.vscode-nuget-package-manager",
+				"pkief.material-icon-theme"
 			]
 		}
 	  }
