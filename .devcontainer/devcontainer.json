@@ -9,7 +9,7 @@
 	"features": {
 		"ghcr.io/devcontainers/features/docker-in-docker:2": {},
 		"ghcr.io/devcontainers/features/kubectl-helm-minikube:1": {},
-		"ghcr.io/devcontainers/features/dotnet:2.0.5": {}
+		"ghcr.io/devcontainers/features/dotnet:2.1.0": {}
 	},
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
